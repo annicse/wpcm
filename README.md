@@ -1,10 +1,7 @@
 # WP Collapsible Menu
 Contributors: Imrul Hasan<br/>
-Donate link: http://imrulanni.me <br/>
-Tags: wordpress, plugin, menu<br/>
 Requires at least: 3.0.1<br/>
 Tested up to: 5.5.1<br/>
-Stable tag: 4.3<br/>
 License: GPLv2 or later<br/>
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
