@@ -16,7 +16,7 @@ The wordpress's default menu becomes messy quickly when we have a big menu with 
 There are no settings in admin. Just install and activate. Works upto 4 level of menu. DOne with just JS and CSS.
 
 ## Installation
-1. Upload `wpcm.php` to the `/wp-content/plugins/` directory
+1. Upload `wpcm folder` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
 ## Screenshots
