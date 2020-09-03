@@ -9,7 +9,7 @@ License: GPLv2 or later<br/>
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 ## Short description
-Better menu with collapsible options for wordpress admin.
+Better menu with collapsible option for wordpress admin.
 
 ## Description
 The wordpress's default menu becomes messy quickly when we have a big menu with lots of items. This simple plugin puts some color to the menu so that it becomes more distinguished and also adds capability to collapse and expand the parent menu item that contains children.

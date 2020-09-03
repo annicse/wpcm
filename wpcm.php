@@ -15,7 +15,7 @@
  * @wordpress-plugin
  * Plugin Name:       WP Collapsible Menu
  * Plugin URI:        http://imrulanni.me
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
+ * Description:       Better menu with collapsible option for wordpress admin.
  * Version:           1.0.0
  * Author:            Imrul Hasan
  * Author URI:        http://imrulanni.me
