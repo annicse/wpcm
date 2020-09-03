@@ -20,4 +20,4 @@ There are no settings in admin. Just install and activate. Works upto 4 level of
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
 ## Screenshots
-![wpcm](https://github.com/annicse/wpcm/assets/screenshot.png)
+![wpcm](https://github.com/annicse/wpcm/blob/master/assets/screenshot.png)
