@@ -1,0 +1,31 @@
+#post-body-content ul.menu.ui-sortable .menu-item-bar .menu-item-handle {
+    padding: 6px 15px 6px 8px;
+}
+
+#post-body-content ul.menu.ui-sortable .menu-item-hidden {
+    display: none;
+}
+
+#post-body-content ul.menu.ui-sortable .menu-item-bar .menu-item-handle .item-type{
+    padding: 9px 16px 7px 5px;
+}
+.nav-menus-php .item-edit:before{
+    margin-top: 7px;
+}
+
+#post-body-content ul.menu.ui-sortable .menu-item-depth-0 .menu-item-handle { background-color: #ffdede; }
+#post-body-content ul.menu.ui-sortable .menu-item-depth-1 .menu-item-handle { background-color: #d5ffd8; }
+#post-body-content ul.menu.ui-sortable .menu-item-depth-2 .menu-item-handle { background-color: #fff7c9; }
+#post-body-content ul.menu.ui-sortable .menu-item-depth-3 .menu-item-handle { background-color: #e1e0ff; }
+
+#post-body-content ul.menu.ui-sortable .menu-item-bar .menu-item-handle .show-children{
+    font-size: 16px;
+    text-decoration: none;
+    display: inline-block;
+    width: 20px;
+    font-family: monospace, Verdana, Arial;
+}
+
+.categorydiv div.tabs-panel, .customlinkdiv div.tabs-panel, .posttypediv div.tabs-panel, .taxonomydiv div.tabs-panel, .wp-tab-panel {
+    max-height: 450px;
+}
