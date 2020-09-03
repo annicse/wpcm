@@ -1,5 +1,5 @@
 === WP Collapsible Menu ===
-Contributors: Imrul Hasan
+Author: Imrul Hasan (http://imrulanni.me)
 Requires at least: 3.0.1
 Tested up to: 5.5.1
 License: GPLv2 or later
